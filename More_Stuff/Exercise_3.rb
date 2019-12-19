@@ -1,0 +1,1 @@
+#The Exception Handling is the process to execute the code in a specific way when it encounters with some error or some misinformation is feeded to the code. Exception handling helps skipping the error part and let the next execution run. It means it does not let the code being stopped executing because of the error.
